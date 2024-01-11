@@ -1,0 +1,14 @@
+C:\Users\shiva\OneDrive\Desktop\mphasis-b2\Phase3\day5\AssignmentDayFive\AssignmentDayFive\bin\Release\net6.0\AssignmentDayFive.exe
+C:\Users\shiva\OneDrive\Desktop\mphasis-b2\Phase3\day5\AssignmentDayFive\AssignmentDayFive\bin\Release\net6.0\AssignmentDayFive.deps.json
+C:\Users\shiva\OneDrive\Desktop\mphasis-b2\Phase3\day5\AssignmentDayFive\AssignmentDayFive\bin\Release\net6.0\AssignmentDayFive.runtimeconfig.json
+C:\Users\shiva\OneDrive\Desktop\mphasis-b2\Phase3\day5\AssignmentDayFive\AssignmentDayFive\bin\Release\net6.0\AssignmentDayFive.dll
+C:\Users\shiva\OneDrive\Desktop\mphasis-b2\Phase3\day5\AssignmentDayFive\AssignmentDayFive\bin\Release\net6.0\AssignmentDayFive.pdb
+C:\Users\shiva\OneDrive\Desktop\mphasis-b2\Phase3\day5\AssignmentDayFive\AssignmentDayFive\obj\Release\net6.0\AssignmentDayFive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shiva\OneDrive\Desktop\mphasis-b2\Phase3\day5\AssignmentDayFive\AssignmentDayFive\obj\Release\net6.0\AssignmentDayFive.AssemblyInfoInputs.cache
+C:\Users\shiva\OneDrive\Desktop\mphasis-b2\Phase3\day5\AssignmentDayFive\AssignmentDayFive\obj\Release\net6.0\AssignmentDayFive.AssemblyInfo.cs
+C:\Users\shiva\OneDrive\Desktop\mphasis-b2\Phase3\day5\AssignmentDayFive\AssignmentDayFive\obj\Release\net6.0\AssignmentDayFive.csproj.CoreCompileInputs.cache
+C:\Users\shiva\OneDrive\Desktop\mphasis-b2\Phase3\day5\AssignmentDayFive\AssignmentDayFive\obj\Release\net6.0\AssignmentDayFive.dll
+C:\Users\shiva\OneDrive\Desktop\mphasis-b2\Phase3\day5\AssignmentDayFive\AssignmentDayFive\obj\Release\net6.0\refint\AssignmentDayFive.dll
+C:\Users\shiva\OneDrive\Desktop\mphasis-b2\Phase3\day5\AssignmentDayFive\AssignmentDayFive\obj\Release\net6.0\AssignmentDayFive.pdb
+C:\Users\shiva\OneDrive\Desktop\mphasis-b2\Phase3\day5\AssignmentDayFive\AssignmentDayFive\obj\Release\net6.0\AssignmentDayFive.genruntimeconfig.cache
+C:\Users\shiva\OneDrive\Desktop\mphasis-b2\Phase3\day5\AssignmentDayFive\AssignmentDayFive\obj\Release\net6.0\ref\AssignmentDayFive.dll

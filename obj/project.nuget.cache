@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OsYZl5bNQKNmmNHc4dGRaTS7ARx8EODXkHxVxQy69cWvcghel0cgiTvdbR3I54DIEEFKgf7Hk8Y0/0/rkhlOow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\shiva\\OneDrive\\Desktop\\mphasis-b2\\Phase3\\day5\\AssignmentDayFive\\AssignmentDayFive\\AssignmentDayFive.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shiva\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512"
+  ],
+  "logs": []
+}

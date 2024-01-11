@@ -1,0 +1,5 @@
+C:\Users\shiva\OneDrive\Desktop\mphasis-b2\Phase3\day5\AssignmentDayFive\AssignmentDayFive\bin\Release\net6.0\publish\AssignmentDayFive.exe
+C:\Users\shiva\OneDrive\Desktop\mphasis-b2\Phase3\day5\AssignmentDayFive\AssignmentDayFive\bin\Release\net6.0\publish\AssignmentDayFive.dll
+C:\Users\shiva\OneDrive\Desktop\mphasis-b2\Phase3\day5\AssignmentDayFive\AssignmentDayFive\bin\Release\net6.0\publish\AssignmentDayFive.deps.json
+C:\Users\shiva\OneDrive\Desktop\mphasis-b2\Phase3\day5\AssignmentDayFive\AssignmentDayFive\bin\Release\net6.0\publish\AssignmentDayFive.runtimeconfig.json
+C:\Users\shiva\OneDrive\Desktop\mphasis-b2\Phase3\day5\AssignmentDayFive\AssignmentDayFive\bin\Release\net6.0\publish\AssignmentDayFive.pdb
